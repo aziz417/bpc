@@ -1,0 +1,21 @@
+.login-logo {
+    margin-bottom: 0;
+}
+
+.padding-top-0 {
+    padding-top: 0;
+}
+
+.font-size-21 {
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.custom_box_shadow {
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+}
+@media only screen and (max-width: 320px) {
+    .font-size-21 {
+        font-size: 17px;
+    }
+}
